@@ -1,7 +1,7 @@
 # Project_UZK
-Модель автиматизации обработки сейсмоаккустических данных.
+Модель автоматизации обработки сейсмоакустических данных.
 
-Файл preprocessing просто показывает что было сделанно с сырыми данными. все подготовленные данные лежат в папке [datafull_npy.](<https://drive.google.com/drive/folders/1HcyDF5_QoZsIBTfMLAHQARuVtJlrYKC0?usp=sharing>)
+Файл preprocessing показывает что было сделанно с сырыми данными. все подготовленные данные лежат в папке [datafull_npy.](<https://drive.google.com/drive/folders/1HcyDF5_QoZsIBTfMLAHQARuVtJlrYKC0?usp=sharing>)
 
 inputed_target таргет времени размерность 1х7, velotar таргет скорости размерность 1х6.
 
